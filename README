@@ -1,1 +1,5 @@
 A little tool to display simple architecture models.
+
+npm install
+grunt
+node server.js
